@@ -17,8 +17,6 @@ http://192.168.5.6:35455/douyu/32892
 http://192.168.5.6:35455/douyu/142488
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202302/8a243518a3f34dd98f0036e1759b3852_big.jpg" group-title="斗鱼-炉石传说",赤小兔
 http://192.168.5.6:35455/douyu/566837
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/face/201609/08/f6c0c08a3f3cb1fd074fe38907ae2508_big.jpg" group-title="斗鱼-英雄联盟",芜湖大司马丶
-http://192.168.5.6:35455/douyu/606118
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201903/cff01101879d4cf29a0f5ff86b3c5550_big.jpg" group-title="斗鱼-英雄联盟",即将拥有人鱼线的PDD
 http://192.168.5.6:35455/douyu/101
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202209/bc69ef78e3874f3ca96240e91554b646_big.jpg" group-title="斗鱼-网游竞技",不2不叫周淑怡
@@ -144,7 +142,8 @@ http://192.168.5.6:35455/bilibili/26122598?platform=hls&line=first&quality=4
 #EXTINF:-1,tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQPxnAQZCQalbtMCjByND3GPmUwFZfgXypxRSAq=s48-c-k-c0x00ffffff-no-rj" group-title="Youtube",Rain ASMR
 http://192.168.10.1:35455/youtube/bdD3NH-_i-U?quality=720
 
-
+#EXTINF:-1,tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_72970031b9c76656b487.jpeg" group-title="抖音",大司马解说
+http://192.168.5.6:35455/douyin/252280097841?stream=hls
 #EXTINF:-1,tvg-logo="https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_318b004ba8a63d7323e08b483d7e5bbd.jpeg" group-title="抖音",张雪峰讲升学规划
 http://192.168.5.6:35455/douyin/722767806407?stream=hls
 #EXTINF:-1,tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_a4d728e87ba7850d82afb6463803d6f7.jpeg" group-title="抖音",张雪峰讲家庭教育
