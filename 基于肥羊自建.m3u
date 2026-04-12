@@ -143,27 +143,27 @@ http://192.168.5.6:35455/bilibili/26122598?platform=hls&line=first&quality=4
 http://192.168.10.1:35455/youtube/bdD3NH-_i-U?quality=720
 
 #EXTINF:-1,tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_72970031b9c76656b487.jpeg" group-title="抖音",大司马解说
-http://192.168.5.6:35455/douyin/252280097841?stream=hls
+http://192.168.5.6:35455/douyin/rid/252280097841?stream=hls
 #EXTINF:-1,tvg-logo="https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_318b004ba8a63d7323e08b483d7e5bbd.jpeg" group-title="抖音",张雪峰讲升学规划
-http://192.168.5.6:35455/douyin/722767806407?stream=hls
+http://192.168.5.6:35455/douyin/rid/722767806407?stream=hls
 #EXTINF:-1,tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_a4d728e87ba7850d82afb6463803d6f7.jpeg" group-title="抖音",张雪峰讲家庭教育
-http://192.168.5.6:35455/douyin/839498863828?stream=hls
+http://192.168.5.6:35455/douyin/rid/839498863828?stream=hls
 #EXTINF:-1,tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_a51e7b37537588d415287ffdb54f5fb5.jpeg" group-title="抖音",刘飞儿Faye
-http://192.168.5.6:35455/douyin/769667829224?stream=hls
+http://192.168.5.6:35455/douyin/rid/769667829224?stream=hls
 #EXTINF:-1,tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_f246f34fbc1f4da300834745a9dfa0fa.jpeg" group-title="抖音",旭旭宝宝
-http://192.168.5.6:35455/douyin/660292215268?stream=hls
+http://192.168.5.6:35455/douyin/rid/660292215268?stream=hls
 #EXTINF:-1,tvg-logo="https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_087fdac3f8516c174e85a36a65039dbb.jpeg" group-title="抖音",SnowKiss_雪妍
-http://192.168.5.6:35455/douyin/6996489259?stream=hls
+http://192.168.5.6:35455/douyin/rid/6996489259?stream=hls
 #EXTINF:-1,tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_a09a001cbe87a5ffee25.jpeg" group-title="抖音",张大仙
-http://192.168.5.6:35455/douyin/63592101250?stream=hls
+http://192.168.5.6:35455/douyin/rid/63592101250?stream=hls
 #EXTINF:-1,tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_111927c77819f9cbd18444593562588a.jpeg" group-title="抖音",小悔别马枪
-http://192.168.5.6:35455/douyin/177897637709?stream=hls
+http://192.168.5.6:35455/douyin/rid/177897637709?stream=hls
 #EXTINF:-1,tvg-logo="https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_34583dc5dc55d5983f8a57fafcbceb6d.jpeg" group-title="抖音",东方甄选
-http://192.168.5.6:35455/douyin/80017709309?stream=hls
+http://192.168.5.6:35455/douyin/rid/80017709309?stream=hls
 #EXTINF:-1,tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_0eb7d4b8f5460dca2d63036504e5cc1e.jpeg" group-title="抖音",东方甄选之图书
-http://192.168.5.6:35455/douyin/660058021558?stream=hls
+http://192.168.5.6:35455/douyin/rid/660058021558?stream=hls
 #EXTINF:-1,tvg-logo="https://p6.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_23a19f8218318a784d98ed00b8bc7de3.jpeg" group-title="抖音",与辉同行
-http://192.168.5.6:35455/douyin/rid/646454278948?stream=hls
+http://192.168.5.6:35455/douyin/rid/rid/646454278948?stream=hls
 #EXTINF:-1,tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_ff009402bd594aa0cd9cba0e3a509d4f.jpeg" group-title="抖音",交个朋友直播间
-http://192.168.5.6:35455/douyin/rid/168465302284?stream=hls
+http://192.168.5.6:35455/douyin/rid/rid/168465302284?stream=hls
 
