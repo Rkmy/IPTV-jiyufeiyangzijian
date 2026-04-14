@@ -142,6 +142,9 @@ http://192.168.5.6:35455/bilibili/26122598?platform=hls&line=first&quality=4
 #EXTINF:-1,tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQPxnAQZCQalbtMCjByND3GPmUwFZfgXypxRSAq=s48-c-k-c0x00ffffff-no-rj" group-title="Youtube",Rain ASMR
 http://192.168.10.1:35455/youtube/bdD3NH-_i-U?quality=720
 
+
+#EXTINF:-1,tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_eba4e37b5d0c624b3644819122882625.jpeg" group-title="抖音",沫子Mozz
+http://192.168.5.6:35455/douyin/rid/37933003538?stream=hls
 #EXTINF:-1,tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_72970031b9c76656b487.jpeg" group-title="抖音",大司马解说
 http://192.168.5.6:35455/douyin/rid/252280097841?stream=hls
 #EXTINF:-1,tvg-logo="https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_318b004ba8a63d7323e08b483d7e5bbd.jpeg" group-title="抖音",张雪峰讲升学规划
