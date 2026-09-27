@@ -514,46 +514,39 @@ rule-providers:
     format: text
     type: http
   ChinaMedia:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ChinaMedia.list
-    path: ./ruleset/ChinaMedia.list
+    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/ChinaMedia.yaml
+    path: ./ruleset/ChinaMedia.yaml
     behavior: classical
     interval: 86400
-    format: text
+    format: yaml
     type: http
   ProxyMedia:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ProxyMedia.list
-    path: ./ruleset/ProxyMedia.list
+    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/ProxyMedia.yaml
+    path: ./ruleset/ProxyMedia.yaml
     behavior: classical
     interval: 86400
-    format: text
-    type: http
-  ProxyGFWlist:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ProxyGFWlist.list
-    path: ./ruleset/ProxyGFWlist.list
-    behavior: classical
-    interval: 86400
-    format: text
+    format: yaml
     type: http
   ChinaDomain:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ChinaDomain.list
-    path: ./ruleset/ChinaDomain.list
+    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/ChinaDomain.yaml
+    path: ./ruleset/ChinaDomain.yaml
     behavior: classical
     interval: 86400
-    format: text
+    format: yaml
     type: http
   ChinaCompanyIp:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ChinaCompanyIp.list
-    path: ./ruleset/ChinaCompanyIp.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/ChinaCompanyIp.yaml
+    path: ./ruleset/ChinaCompanyIp.yaml
+    behavior: ipcidr
     interval: 86400
-    format: text
+    format: yaml
     type: http
   Download:
-    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Download.list
-    path: ./ruleset/Download.list
+    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/Download.yaml
+    path: ./ruleset/Download.yaml
     behavior: classical
     interval: 86400
-    format: text
+    format: yaml
     type: http
 
 rules:
